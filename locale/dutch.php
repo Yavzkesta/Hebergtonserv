@@ -200,3 +200,19 @@ $_LANG['seoenhancer_0017_title'] = "Gaming VPS Hosting - HebergTonServ";
 $_LANG['seoenhancer_0017_description'] = "HebergTonServ biedt VPS-servers van topkwaliteit voor online gaming met hoge prestaties, snelle connectiviteit en 24/7 technische ondersteuning.";
 $_LANG['seoenhancer_0017_tags'] = "VPS hosting, gaming VPS server, online gaming server, hoge prestaties, 24/7 technische ondersteuning, snelle connectiviteit";
 $_LANG['seoenhancer_0017_canonical'] = "https://hebergtonserv.fr/store/vps-gaming";
+
+
+//fiveguard
+
+$_LANG['fiveguard_desc'] = "Fiveguard is marktleider op het gebied van het bieden van anti-cheats in FiveM. Het is al meer dan 6 maanden op de markt en heeft in die tijd meer dan 150.000 verboden verzameld voor verschillende vormen van cheats.";
+$_LANG['fiveguard_Monthly'] = "Maandelijks";
+$_LANG['fiveguard_Lifetime'] = "Levenslang";
+$_LANG['fiveguard_FEATURES'] = "Fiveguard FUNCTIES";
+$_LANG['fiveguard_panel'] = "Webpaneel";
+$_LANG['fiveguard_panel_desc'] = "Fiveguard heeft een webpaneel met een cloudconfiguratiesysteem waarmee u uw licenties kunt beheren en delen met uw personeel zonder uw wachtwoorden te delen.";
+$_LANG['fiveguard_Anti'] = "Anti On Screen-menu";
+$_LANG['fiveguard_Antidesc'] = "Fiveguard heeft een geavanceerde AI die op regelmatige tijdstippen schermafbeeldingen maakt om te controleren of er een lua-menu aanwezig is en cheaters effectief verbiedt.";
+$_LANG['fiveguard_Safe'] = "Veilig evenementenverificatiesysteem";
+$_LANG['fiveguard_Safedesc'] = "Fiveguard heeft ook een systeem van veilige evenementen dat het onmogelijk maakt om evenementen uit te voeren door hackers en het genereren van geld.";
+$_LANG['fiveguard_AI'] = "AI-voorwerpdetectie";
+$_LANG['fiveguard_AIdesc'] = "Fiveguard heeft geavanceerde AI die effectief ongebruikelijk gedrag detecteert bij het spawnen van entiteiten en auto's, wat voorkomt dat cheaters uw server vernietigen.";

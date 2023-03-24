@@ -199,3 +199,18 @@ $_LANG['seoenhancer_0017_title'] = "Gaming VPS za igranje - HebergTonServ";
 $_LANG['seoenhancer_0017_description'] = "HebergTonServ ponuja vrhunske strežnike VPS za spletno igranje z visoko zmogljivostjo, hitro povezljivostjo in 24/7 tehnično podporo.";
 $_LANG['seoenhancer_0017_tags'] = "VPS gostovanje, igralni VPS strežnik, spletni igralni strežnik, visoka zmogljivost, 24/7 tehnična podpora, hitra povezljivost";
 $_LANG['seoenhancer_0017_canonical'] = "https://hebergtonserv.fr/store/vps-gaming";
+
+//fiveguard
+
+$_LANG['fiveguard_desc'] = "Fiveguard je vodilni na trgu pri zagotavljanju proti-cheatov za FiveM. Na trgu je že več kot 6 mesecev in v tem času je uspel nabrati več kot 150.000 prepovedi za različne vrste goljufij.";
+$_LANG['fiveguard_Monthly'] = "Mesečno";
+$_LANG['fiveguard_Lifetime'] = "Doživljenjsko";
+$_LANG['fiveguard_FEATURES'] = "FUNKCIJE Fiveguarda";
+$_LANG['fiveguard_panel'] = "Spletna nadzorna plošča";
+$_LANG['fiveguard_panel_desc'] = "Fireguard ima spletno nadzorno ploščo s sistemom konfiguracije v oblaku, ki vam omogoča upravljanje licenc in deljenje z osebjem brez deljenja gesel.";
+$_LANG['fiveguard_Anti'] = "Anti On Screen-menu";
+$_LANG['fiveguard_Antidesc'] = "Fiveguard ima napredno umetno inteligenco, ki redno zajema posnetke zaslona, da preveri prisotnost lua menija in učinkovito prepove goljufom.";
+$_LANG['fiveguard_Safe'] = "Sistem preverjanja varnih dogodkov";
+$_LANG['fiveguard_Safedesc'] = "Fiveguard ima tudi sistem varnih dogodkov, ki preprečuje izvajanje dogodkov s strani hekerjev in ustvarjanje denarja.";
+$_LANG['fiveguard_AI'] = "Zaznavanje AI predmetov";
+$_LANG['fiveguard_AIdesc'] = "Fiveguard ima napredno umetno inteligenco, ki učinkovito zaznava nenavadno vedenje pri pojavljanju entitet in avtomobilov, kar preprečuje uničevanje strežnika s strani goljufov.";

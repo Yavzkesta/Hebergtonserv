@@ -199,3 +199,18 @@ $_LANG['seoenhancer_0017_title'] = "Hébergement VPS Gaming - HébergTonServ";
 $_LANG['seoenhancer_0017_description'] = "HébergTonServ propose des serveurs VPS de qualité supérieure pour les jeux en ligne avec des performances élevées, une connectivité rapide et un support technique 24/7.";
 $_LANG['seoenhancer_0017_tags'] = "hébergement VPS, serveur VPS gaming, serveur de jeu en ligne, performances élevées, support technique 24/7, connectivité rapide";
 $_LANG['seoenhancer_0017_canonical'] = "https://hebergtonserv.fr/store/vps-gaming";
+
+
+//fiveguard
+$_LANG['fiveguard_desc'] = "Fiveguard est le leader du marché dans la fourniture de logiciels anti-triches pour FiveM. Il est sur le marché depuis plus de 6 mois et a réussi à accumuler plus de 150 000 interdictions pour diverses formes de triches.";
+$_LANG['fiveguard_Monthly'] = "Mensuel";
+$_LANG['fiveguard_Lifetime'] = "À vie";
+$_LANG['fiveguard_FEATURES'] = "FONCTIONNALITÉS DE Fiveguard";
+$_LANG['fiveguard_panel'] = "Panneau Web";
+$_LANG['fiveguard_panel_desc'] = "Fiveguard dispose d'un panneau web avec un système de configuration cloud qui vous permet de gérer vos licences et de les partager avec votre équipe sans partager vos mots de passe.";
+$_LANG['fiveguard_Anti'] = "Anti-menu à l'écran";
+$_LANG['fiveguard_Antidesc'] = "Fiveguard dispose d'une intelligence artificielle avancée qui prend des captures d'écran à intervalles réguliers pour vérifier la présence d'un menu lua et bannir efficacement les tricheurs.";
+$_LANG['fiveguard_Safe'] = "Système de vérification des événements sûrs";
+$_LANG['fiveguard_Safedesc'] = "Fiveguard dispose également d'un système d'événements sûrs qui rend impossible l'exécution d'événements par des pirates informatiques et la génération d'argent.";
+$_LANG['fiveguard_AI'] = "Détection d'objets par intelligence artificielle";
+$_LANG['fiveguard_AIdesc'] = "Fiveguard dispose d'une intelligence artificielle avancée qui détecte efficacement les comportements inhabituels dans la génération d'entités et de voitures, ce qui empêche les tricheurs de détruire votre serveur.";
