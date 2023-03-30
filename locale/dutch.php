@@ -216,3 +216,23 @@ $_LANG['fiveguard_Safe'] = "Veilig evenementenverificatiesysteem";
 $_LANG['fiveguard_Safedesc'] = "Fiveguard heeft ook een systeem van veilige evenementen dat het onmogelijk maakt om evenementen uit te voeren door hackers en het genereren van geld.";
 $_LANG['fiveguard_AI'] = "AI-voorwerpdetectie";
 $_LANG['fiveguard_AIdesc'] = "Fiveguard heeft geavanceerde AI die effectief ongebruikelijk gedrag detecteert bij het spawnen van entiteiten en auto's, wat voorkomt dat cheaters uw server vernietigen.";
+
+//DISCORDBOT
+$_LANG['dbot_desc'] = "Host uw Discord bot op krachtige en hoogwaardige servers tegen betaalbare prijzen.";
+$_LANG['dbot_tit'] = "Bot Hosting";
+$_LANG['dbot_titdesc'] = "Het bot hosting plan ondersteunt een verscheidenheid aan talen en frameworks, waaronder Discord.JS, Discord.py en Dart.";
+$_LANG['dbot_preins'] = "Eenvoudige bot-installatie";
+$_LANG['dbot_supdc'] = "Discord ondersteuning";
+$_LANG['dbot_pecharge'] = "Ondersteunt Dart, Python en NodeJS";
+$_LANG['dbot_fhbd'] = "KENMERKEN VAN DISCORD BOT HOSTING";
+$_LANG['dbot_att'] = "U kunt onze Discord bot hosting 24/7 verwachten, met een breed scala aan ongeëvenaarde serverfuncties";
+$_LANG['dbot_prisencharg'] = "Ondersteunt Python, NodeJs en Dart";
+$_LANG['dbot_ftp'] = "Volledige toegang tot bestanden via FTP";
+$_LANG['dbot_supdc2'] = "Discord ondersteuning";
+$_LANG['dbot_gdp'] = "Pakketbeheerder";
+$_LANG['dbot_save'] = "Automatische back-ups";
+$_LANG['dbot_sud'] = "Gedetailleerde gebruik statistieken";
+$_LANG['seoenhancer_0018_title'] = "Discord Bot Hosting - HébergTonServ";
+$_LANG['seoenhancer_0018_description'] = "HébergTonServ biedt hoogwaardige Discord bot hosting servers met hoge prestaties, snelle connectiviteit en 24/7 technische ondersteuning.";
+$_LANG['seoenhancer_0018_tags'] = "Discord bot hosting, bot hosting server, hoge prestaties, 24/7 technische ondersteuning, snelle connectiviteit";
+$_LANG['seoenhancer_0018_canonical'] = "https://hebergtonserv.com/discord-bot.php";

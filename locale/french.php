@@ -214,3 +214,23 @@ $_LANG['fiveguard_Safe'] = "Système de vérification des événements sûrs";
 $_LANG['fiveguard_Safedesc'] = "Fiveguard dispose également d'un système d'événements sûrs qui rend impossible l'exécution d'événements par des pirates informatiques et la génération d'argent.";
 $_LANG['fiveguard_AI'] = "Détection d'objets par intelligence artificielle";
 $_LANG['fiveguard_AIdesc'] = "Fiveguard dispose d'une intelligence artificielle avancée qui détecte efficacement les comportements inhabituels dans la génération d'entités et de voitures, ce qui empêche les tricheurs de détruire votre serveur.";
+
+//DISCORDBOT
+$_LANG['dbot_desc'] = "Hébergez votre bot Discord sur des serveurs puissants et performants à des prix abordables.";
+$_LANG['dbot_tit'] = "Bot Hosting";
+$_LANG['dbot_titdesc'] = "Le plan d'hébergement de bot prend en charge une variété de langages et de frameworks, notamment Discord.JS, Discord.py et Dart.";
+$_LANG['dbot_preins'] = "Pré-installation de bot en un clic";
+$_LANG['dbot_supdc'] = "Support Discord";
+$_LANG['dbot_pecharge'] = "Prend en charge Dart, Python et NodeJS";
+$_LANG['dbot_fhbd'] = "FONCTIONNALITÉS D'HÉBERGEMENT DE BOT DISCORD";
+$_LANG['dbot_att'] = "Vous pouvez vous attendre à notre hébergement de bot Discord 24/7, avec une large gamme de fonctionnalités de serveur incomparables";
+$_LANG['dbot_prisencharg'] = "Prend en charge python NodeJs et Dart";
+$_LANG['dbot_ftp'] = "Accès complet aux fichiers via FTP";
+$_LANG['dbot_supdc2'] = "Support Discord";
+$_LANG['dbot_gdp'] = "Gestionnaire de packages";
+$_LANG['dbot_save'] = "Sauvegardes automatiques";
+$_LANG['dbot_sud'] = "Statistiques d'utilisation détaillées";
+$_LANG['seoenhancer_0018_title'] = "Hébergement de Bot Discord - HébergTonServ";
+$_LANG['seoenhancer_0018_description'] = "HébergTonServ propose des serveurs d'hébergement de bot Discord de qualité supérieure avec des performances élevées, une connectivité rapide et un support technique 24/7.";
+$_LANG['seoenhancer_0018_tags'] = "hébergement de bot Discord, serveur d'hébergement de bot, performances élevées, support technique 24/7, connectivité rapide";
+$_LANG['seoenhancer_0018_canonical'] = "https://hebergtonserv.fr/discord-bot.php";

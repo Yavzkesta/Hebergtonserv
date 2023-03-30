@@ -214,3 +214,23 @@ $_LANG['fiveguard_Safe'] = "Sistem preverjanja varnih dogodkov";
 $_LANG['fiveguard_Safedesc'] = "Fiveguard ima tudi sistem varnih dogodkov, ki preprečuje izvajanje dogodkov s strani hekerjev in ustvarjanje denarja.";
 $_LANG['fiveguard_AI'] = "Zaznavanje AI predmetov";
 $_LANG['fiveguard_AIdesc'] = "Fiveguard ima napredno umetno inteligenco, ki učinkovito zaznava nenavadno vedenje pri pojavljanju entitet in avtomobilov, kar preprečuje uničevanje strežnika s strani goljufov.";
+
+//DISCORDBOT
+$_LANG['dbot_desc'] = "Gostite svoj Discord bot na zmogljivih in visoko zmogljivih strežnikih po dostopnih cenah.";
+$_LANG['dbot_tit'] = "Bot gostovanje";
+$_LANG['dbot_titdesc'] = "Načrt gostovanja bota podpira različne jezike in okvire, vključno z Discord.JS, Discord.py in Dart.";
+$_LANG['dbot_preins'] = "Namestitev bota v enem kliku";
+$_LANG['dbot_supdc'] = "Podpora za Discord";
+$_LANG['dbot_pecharge'] = "Podpira Dart, Python in NodeJS";
+$_LANG['dbot_fhbd'] = "FUNKCIJE GOSTOVANJA DISCORD BOTA";
+$_LANG['dbot_att'] = "Pričakujete lahko naše gostovanje Discord bota 24/7, z različnimi funkcijami strežnika, ki jih ni mogoče primerjati";
+$_LANG['dbot_prisencharg'] = "Podpira Python, NodeJs in Dart";
+$_LANG['dbot_ftp'] = "Poln dostop do datotek prek FTP";
+$_LANG['dbot_supdc2'] = "Podpora za Discord";
+$_LANG['dbot_gdp'] = "Upravitelj paketov";
+$_LANG['dbot_save'] = "Avtomatske varnostne kopije";
+$_LANG['dbot_sud'] = "Podrobne statistike uporabe";
+$_LANG['seoenhancer_0018_title'] = "Gostovanje Discord Bota - HébergTonServ";
+$_LANG['seoenhancer_0018_description'] = "HébergTonServ ponuja visokokakovostne strežnike za gostovanje Discord bota z visoko zmogljivostjo, hitrimi povezavami in 24/7 tehnično podporo.";
+$_LANG['seoenhancer_0018_tags'] = "gostovanje Discord bota, strežnik za gostovanje bota, visoka zmogljivost, 24/7 tehnična podpora, hitre povezave";
+$_LANG['seoenhancer_0018_canonical'] = "https://hebergtonserv.com/discord-bot.php";
