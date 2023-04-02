@@ -79,7 +79,7 @@ $_LANG['Reseaupremium'] = "Réseau premium";
 $_LANG['Reseaupremiumdesc'] = "Nous utilisons un réseau haut de gamme pour garantir des performances optimales et une connectivité rapide et fiable pour votre site web.";
 $_LANG['rgpdmention'] = "Mentions légales RGPD";
 $_LANG['cgv'] = "Condition general de vente";
-$_LANG['legaldesc'] = "Bienvenue sur notre page de conditions générales de vente. Vous trouverez ici toutes les informations nécessaires pour comprendre les règles régissant nos transactions commerciales. Nous sommes une entreprise individuelle et ne sommes pas assujettis à la TVA conformément à l'article 293 B du CGI. Si vous avez des questions ou des préoccupations concernant nos politiques de vente, n'hésitez pas à nous contacter à l'adresse admin@hebergtonserv.fr. Notre siège social est situé au 224 rue de la république, 39400 Morez. Nous sommes immatriculés au RCS de Lons-le-Saunier sous le numéro 90202472800013 et le responsable de la publication est M. Keskin Yavuz.";
+$_LANG['legaldesc'] = "Bienvenue sur notre page de conditions générales de vente. Vous trouverez ici toutes les informations nécessaires pour comprendre les règles régissant nos transactions commerciales. Nous sommes une entreprise individuelle et ne sommes pas assujettis à la TVA conformément à l'article 293 B du CGI. Si vous avez des questions ou des préoccupations concernant nos politiques de vente, n'hésitez pas à nous contacter à l'adresse admin@hebergtonserv.com. Notre siège social est situé au 224 rue de la république, 39400 Morez. Nous sommes immatriculés au RCS de Lons-le-Saunier sous le numéro 90202472800013 et le responsable de la publication est M. Keskin Yavuz.";
 $_LANG['readytostart'] = "Prêt à commencer ?";
 $_LANG['readytostartdesc'] = "Les serveurs sont démarrés, sélectionnez votre plan et devenez notre dernier client satisfait.";
 $_LANG['lookservice'] = "Voir les services";
@@ -87,118 +87,118 @@ $_LANG['espaceclient'] = "Espace client";
 $_LANG['createaccountweb'] = "Créer un compte";
 
 // homepage
-$_LANG['seoenhancer_homepage_title'] = "Hébergement de serveurs de jeux | Hebergtonserv.fr";
-$_LANG['seoenhancer_homepage_description'] = "Hebergtonserv.fr est une entreprise spécialisée dans l'hébergement de serveurs de jeux en France. Nous offrons une gamme complète de solutions d'hébergement pour les jeux les plus populaires, y compris Minecraft, Garry's Mod, GTA FiveM et bien plus encore.";
+$_LANG['seoenhancer_homepage_title'] = "Hébergement de serveurs de jeux | hebergtonserv.com";
+$_LANG['seoenhancer_homepage_description'] = "hebergtonserv.com est une entreprise spécialisée dans l'hébergement de serveurs de jeux en France. Nous offrons une gamme complète de solutions d'hébergement pour les jeux les plus populaires, y compris Minecraft, Garry's Mod, GTA FiveM et bien plus encore.";
 $_LANG['seoenhancer_homepage_tags'] = "Hébergement de serveurs, jeux en ligne, serveurs Minecraft, serveurs fivem, serveurs Garry's Mod";
-$_LANG['seoenhancer_homepage_canonical'] = "https://hebergtonserv.fr/";
+$_LANG['seoenhancer_homepage_canonical'] = "https://hebergtonserv.com/";
 
 // fivem
-$_LANG['seoenhancer_2_title'] = "Hébergement de serveurs FiveM - HebergTonServ.fr";
-$_LANG['seoenhancer_2_description'] = "HebergTonServ.fr propose des solutions d'hébergement de serveurs FiveM rapides et fiables à des tarifs abordables. Configurez et gérez votre serveur en quelques clics avec notre panneau de contrôle convivial.";
+$_LANG['seoenhancer_2_title'] = "Hébergement de serveurs FiveM - hebergtonserv.com";
+$_LANG['seoenhancer_2_description'] = "hebergtonserv.com propose des solutions d'hébergement de serveurs FiveM rapides et fiables à des tarifs abordables. Configurez et gérez votre serveur en quelques clics avec notre panneau de contrôle convivial.";
 $_LANG['seoenhancer_2_tags'] = "Hébergement, Serveurs FiveM, Configuration, Panneau de contrôle, Abordable";
-$_LANG['seoenhancer_2_canonical'] = "https://hebergtonserv.fr/fivem.php";
+$_LANG['seoenhancer_2_canonical'] = "https://hebergtonserv.com/fivem.php";
 
 // minecraft
 $_LANG['seoenhancer_3_title'] = "Hébergement de serveurs Minecraft de qualité | HebergTonServ";
 $_LANG['seoenhancer_3_description'] = "HebergTonServ propose des offres d'hébergement de serveurs Minecraft optimisées pour une expérience de jeu fluide et sans latence. Profitez d'une grande variété d'options de serveurs, y compris la version Vanilla, Spigot, Forge, BungeeCord, et bien plus encore. Bénéficiez également d'une protection anti-DDoS, de sauvegardes régulières et d'une assistance technique 24/7 pour garantir la meilleure expérience de jeu possible.";
 $_LANG['seoenhancer_3_tags'] = "hébergement de serveurs Minecraft, Minecraft, serveurs de jeu, hébergement de serveurs de jeu, Spigot, Forge, BungeeCord, anti-DDoS, sauvegardes régulières, assistance technique 24/7";
-$_LANG['seoenhancer_3_canonical'] = "https://hebergtonserv.fr/minecraft.php";
+$_LANG['seoenhancer_3_canonical'] = "https://hebergtonserv.com/minecraft.php";
 
 // gmod
 $_LANG['seoenhancer_4_title'] = "Hébergement de serveur Garry's Mod de qualité supérieure | HebergTonServ";
 $_LANG['seoenhancer_4_description'] = "Hébergez votre propre serveur Garry's Mod avec HebergTonServ. Profitez d'un hébergement de qualité supérieure avec des processeurs de pointe, des sauvegardes automatiques, une protection DDoS et une assistance technique 24h/24 et 7j/7. Découvrez nos plans d'hébergement Garry's Mod dès maintenant !";
 $_LANG['seoenhancer_4_tags'] = "Hébergement Garry's Mod, serveur Garry's Mod, qualité supérieure, processeurs de pointe, sauvegardes automatiques, protection DDoS, assistance technique";
-$_LANG['seoenhancer_4_canonical'] = "https://hebergtonserv.fr/garrys-mod.php";
+$_LANG['seoenhancer_4_canonical'] = "https://hebergtonserv.com/garrys-mod.php";
 
 // gameserver
 $_LANG['seoenhancer_gameserver_title'] = "Serveurs de jeux de qualité supérieure | Hébergement de serveurs de jeux | HebergTonServ";
 $_LANG['seoenhancer_gameserver_description'] = "HebergTonServ offre des serveurs de jeux de qualité supérieure pour les joueurs passionnés. Nos serveurs sont optimisés pour offrir des performances exceptionnelles et une connectivité rapide et stable. Nous offrons une variété de jeux populaires avec un support technique exceptionnel pour vous offrir une expérience de jeu sans stress. Obtenez votre serveur de jeu de qualité supérieure dès aujourd'hui !";
 $_LANG['seoenhancer_gameserver_tags'] = "Hébergement de serveurs de jeux, serveurs de jeux, serveurs de jeux de qualité supérieure, Minecraft, Garry's Mod, FiveM, services de jeux, serveurs de jeux optimisés";
-$_LANG['seoenhancer_gameserver_canonical'] = "https://hebergtonserv.fr/game-servers.php";
+$_LANG['seoenhancer_gameserver_canonical'] = "https://hebergtonserv.com/game-servers.php";
 // vps
 
 $_LANG['seoenhancer_vps_title'] = "Hébergement VPS Haute Performance - Hébergtonserv";
 $_LANG['seoenhancer_vps_description'] = "Découvrez notre hébergement VPS haute performance. Profitez d'un accès root puissant, d'une sécurité renforcée et d'une assistance technique réactive.";
 $_LANG['seoenhancer_vps_tags'] = "Hébergement VPS, Serveur VPS, Hébergement cloud, Accès root, Sécurité renforcée, Assistance technique, Haute performance";
-$_LANG['seoenhancer_vps_canonical'] = "https://hebergtonserv.fr/vps-hosting.php";
+$_LANG['seoenhancer_vps_canonical'] = "https://hebergtonserv.com/vps-hosting.php";
 // web
 
 $_LANG['seoenhancer_5_title'] = "Hébergement Web Premium - Hébergtonserv.fr";
-$_LANG['seoenhancer_5_description'] = "HebergTonServ.fr propose des services d'hébergement web premium pour les sites de toutes tailles. Nos forfaits incluent un stockage SSD NVMe, une protection DDoS, une assistance technique disponible 24/7, une sauvegarde de données et une garantie de disponibilité de 99,9%.";
+$_LANG['seoenhancer_5_description'] = "hebergtonserv.com propose des services d'hébergement web premium pour les sites de toutes tailles. Nos forfaits incluent un stockage SSD NVMe, une protection DDoS, une assistance technique disponible 24/7, une sauvegarde de données et une garantie de disponibilité de 99,9%.";
 $_LANG['seoenhancer_5_tags'] = "hébergement web, stockage SSD, protection DDoS, sauvegarde de données, disponibilité, assistance technique, hébergement de sites";
-$_LANG['seoenhancer_5_canonical'] = "https://hebergtonserv.fr/web-hosting.php";
+$_LANG['seoenhancer_5_canonical'] = "https://hebergtonserv.com/web-hosting.php";
 // legal
 
 $_LANG['seoenhancer_6_title'] = "Conditions Générales de Vente - Hébergtonserv.fr";
 $_LANG['seoenhancer_6_description'] = "Consultez nos conditions générales de vente pour en savoir plus sur nos services d'hébergement de serveurs de jeux et de VPS. Retrouvez toutes les informations sur les tarifs, les remboursements, la disponibilité, la sécurité et la confidentialité de vos données.";
 $_LANG['seoenhancer_6_tags'] = "hébergement de serveurs de jeux, VPS, conditions générales de vente, tarifs, remboursements, sécurité des données, confidentialité";
-$_LANG['seoenhancer_6_canonical'] = "https://hebergtonserv.fr/terms-of-service.php";
+$_LANG['seoenhancer_6_canonical'] = "https://hebergtonserv.com/terms-of-service.php";
 
 // jeux
 $_LANG['seoenhancer_7_title'] = "Hébergement de serveur de jeux - Créez un compte chez HebergTonServ";
 $_LANG['seoenhancer_7_description'] = "Créez un compte chez HebergTonServ pour profiter d'un hébergement de serveur de jeux de haute qualité à des prix abordables. Accédez à notre gamme de serveurs de jeux, de VPS et d'hébergement web pour répondre à tous vos besoins.";
 $_LANG['seoenhancer_7_tags'] = "hébergement de serveur de jeux, compte, HebergTonServ, serveurs de jeux, VPS, hébergement web";
-$_LANG['seoenhancer_7_canonical'] = "https://hebergtonserv.fr/register.php";
+$_LANG['seoenhancer_7_canonical'] = "https://hebergtonserv.com/register.php";
 
 // Garry's Mod
 $_LANG['seoenhancer_8_title'] = "Hébergement Garry's Mod - Serveurs de jeux puissants et fiables | HebergTonServ";
 $_LANG['seoenhancer_8_description'] = "Hébergez votre serveur Garry's Mod chez HebergTonServ et profitez de performances supérieures, de la protection DDoS et d'une assistance technique rapide et professionnelle. Nos serveurs sont optimisés pour Garry's Mod, offrant des temps de chargement rapides et une expérience de jeu fluide pour vous et vos joueurs.";
 $_LANG['seoenhancer_8_tags'] = "Hébergement Garry's Mod, serveurs de jeux Garry's Mod, performances supérieures, protection DDoS, assistance technique, expérience de jeu fluide";
-$_LANG['seoenhancer_8_canonical'] = "https://hebergtonserv.fr/store/gmod";
+$_LANG['seoenhancer_8_canonical'] = "https://hebergtonserv.com/store/gmod";
 
 // ALT:V
 $_LANG['seoenhancer_9_title'] = "Hébergement de serveurs ALT:V - Serveurs de jeux haute performance";
 $_LANG['seoenhancer_9_description'] = "Obtenez votre propre serveur ALT:V haute performance à partir de Hébergtonserv.fr. Nous offrons une variété de plans de serveur, des options de personnalisation, une assistance technique 24h / 24 et une protection DDoS pour une expérience de jeu ininterrompue.";
 $_LANG['seoenhancer_9_tags'] = "Hébergement de serveurs, serveurs de jeux, serveurs ALT:V, performance élevée, personnalisation, assistance technique, protection DDoS.";
-$_LANG['seoenhancer_9_canonical'] = "https://hebergtonserv.fr/store/altv";
+$_LANG['seoenhancer_9_canonical'] = "https://hebergtonserv.com/store/altv";
 
 // RedM
 $_LANG['seoenhancer_0010_title'] = "Hébergement de serveurs RedM - HebergtonServ";
 $_LANG['seoenhancer_0010_description'] = "Hébergez votre serveur RedM avec HebergtonServ. Profitez de performances élevées, d'une protection DDoS de pointe, d'un support technique 24/7 et d'un panneau de contrôle facile à utiliser. Lancez votre communauté RedM dès aujourd'hui !";
 $_LANG['seoenhancer_0010_tags'] = "Hébergement RedM, Serveur RedM, Hébergeur RedM, Hébergement de serveurs de jeux, Performance élevée, Protection DDoS, Support technique 24/7, Panneau de contrôle facile à utiliser";
-$_LANG['seoenhancer_0010_canonical'] = "https://hebergtonserv.fr/store/redm";
+$_LANG['seoenhancer_0010_canonical'] = "https://hebergtonserv.com/store/redm";
 
 // FiveM
 $_LANG['seoenhancer_0011_title'] = "Hébergement serveur FiveM de qualité | HebergTonServ";
 $_LANG['seoenhancer_0011_description'] = "Obtenez des performances optimales pour votre serveur FiveM avec notre hébergement haute performance et notre support technique dédié. Choisissez parmi une variété de plans d'hébergement à des prix compétitifs. Rejoignez notre communauté et profitez d'un hébergement de serveur FiveM fiable et sécurisé dès aujourd'hui.";
 $_LANG['seoenhancer_0011_tags'] = "hébergement, serveur, FiveM, performance, support, technique, communauté, prix compétitifs, fiabilité, sécurité.";
-$_LANG['seoenhancer_0011_canonical'] = "https://hebergtonserv.fr/store/fivem";
+$_LANG['seoenhancer_0011_canonical'] = "https://hebergtonserv.com/store/fivem";
 
 // Node.js
 $_LANG['seoenhancer_0012_title'] = "Hébergement Node.js de qualité supérieure | Hebergeur de serveurs de jeux";
 $_LANG['seoenhancer_0012_description'] = "Hébergez votre application Node.js avec performance et fiabilité sur notre infrastructure cloud. Profitez des fonctionnalités telles que les sauvegardes automatiques, l'accès root complet, et le support technique réactif.";
 $_LANG['seoenhancer_0012_tags'] = "Hébergement Node.js, Serveur Cloud, Sauvegardes automatiques, Accès root, Support technique";
-$_LANG['seoenhancer_0012_canonical'] = "https://hebergtonserv.fr/store/nodejs";
+$_LANG['seoenhancer_0012_canonical'] = "https://hebergtonserv.com/store/nodejs";
 
 // VPS 
-$_LANG['seoenhancer_0013_title'] = "Hébergement VPS de haute qualité - Hebergtonserv.fr";
+$_LANG['seoenhancer_0013_title'] = "Hébergement VPS de haute qualité - hebergtonserv.com";
 $_LANG['seoenhancer_0013_description'] = "Obtenez des performances fiables, une sécurité renforcée et une assistance client supérieure avec notre hébergement VPS cloud. Découvrez nos plans VPS gérés, évolutifs et économiques avec accès root, sauvegarde automatique et réseau haut de gamme.";
 $_LANG['seoenhancer_0013_tags'] = "hébergement VPS, hébergement VPS cloud, hébergement VPS géré, accès root, sauvegarde automatique, réseau haut de gamme, performances fiables, sécurité renforcée, assistance client supérieure, plans VPS économiques";
-$_LANG['seoenhancer_0013_canonical'] = "https://hebergtonserv.fr/store/vps";
+$_LANG['seoenhancer_0013_canonical'] = "https://hebergtonserv.com/store/vps";
 
 // Minecraft
 $_LANG['seoenhancer_0014_title'] = "Hébergement de serveurs Minecraft - Hébergez votre serveur Minecraft avec HebergTonServ";
 $_LANG['seoenhancer_0014_description'] = "Hébergez votre serveur Minecraft avec HebergTonServ et profitez d'une performance et d'une sécurité de pointe. Choisissez parmi une variété de plans d'hébergement et gérez votre serveur Minecraft en toute simplicité grâce à notre panneau de contrôle facile à utiliser.";
 $_LANG['seoenhancer_0014_tags'] = "hébergement de serveurs Minecraft, serveur Minecraft, Minecraft, hébergement de jeux, HebergTonServ";
-$_LANG['seoenhancer_0014_canonical'] = "https://hebergtonserv.fr/store/minecraft";
+$_LANG['seoenhancer_0014_canonical'] = "https://hebergtonserv.com/store/minecraft";
 
 // Hébergement Web
 $_LANG['seoenhancer_0015_title'] = "Hébergement Web - Plans d'hébergement web abordables | HebergtonServ";
 $_LANG['seoenhancer_0015_description'] = "Hébergez votre site web avec nos plans d'hébergement web abordables. Bénéficiez d'un stockage SSD NVMe rapide, de sauvegardes régulières, d'une protection DDoS et d'une assistance technique disponible 24/7.";
 $_LANG['seoenhancer_0015_tags'] = "hébergement web, stockage SSD NVMe, sauvegardes régulières, protection DDoS, assistance technique 24/7, plans d'hébergement web abordables, HebergtonServ";
-$_LANG['seoenhancer_0015_canonical'] = "https://hebergtonserv.fr/store/web";
+$_LANG['seoenhancer_0015_canonical'] = "https://hebergtonserv.com/store/web";
 
 // base de données
 $_LANG['seoenhancer_0016_title'] = "Hébergement de base de données - HebergTonServ";
 $_LANG['seoenhancer_0016_description'] = "HebergTonServ propose des solutions d'hébergement de bases de données rapides et fiables pour répondre à tous vos besoins de stockage de données. Nos serveurs de bases de données sont optimisés pour les performances et sont dotés de fonctionnalités telles que des sauvegardes automatiques, une protection contre les attaques DDoS et une assistance technique rapide et compétente. Choisissez parmi nos différents plans pour trouver celui qui convient le mieux à vos besoins.";
 $_LANG['seoenhancer_0016_tags'] = "Hébergement de base de données, MySQL, MariaDB, PostgreSQL, MongoDB, Redis 5, Redis 6, Stockage de données, Sauvegarde automatique, Protection DDoS, Assistance technique, Plans d'hébergement.";
-$_LANG['seoenhancer_0016_canonical'] = "https://hebergtonserv.fr/store/database";
+$_LANG['seoenhancer_0016_canonical'] = "https://hebergtonserv.com/store/database";
 
 // VPS Gaming
 $_LANG['seoenhancer_0017_title'] = "Hébergement VPS Gaming - HébergTonServ";
 $_LANG['seoenhancer_0017_description'] = "HébergTonServ propose des serveurs VPS de qualité supérieure pour les jeux en ligne avec des performances élevées, une connectivité rapide et un support technique 24/7.";
 $_LANG['seoenhancer_0017_tags'] = "hébergement VPS, serveur VPS gaming, serveur de jeu en ligne, performances élevées, support technique 24/7, connectivité rapide";
-$_LANG['seoenhancer_0017_canonical'] = "https://hebergtonserv.fr/store/vps-gaming";
+$_LANG['seoenhancer_0017_canonical'] = "https://hebergtonserv.com/store/vps-gaming";
 
 
 //fiveguard
@@ -233,4 +233,4 @@ $_LANG['dbot_sud'] = "Statistiques d'utilisation détaillées";
 $_LANG['seoenhancer_0018_title'] = "Hébergement de Bot Discord - HébergTonServ";
 $_LANG['seoenhancer_0018_description'] = "HébergTonServ propose des serveurs d'hébergement de bot Discord de qualité supérieure avec des performances élevées, une connectivité rapide et un support technique 24/7.";
 $_LANG['seoenhancer_0018_tags'] = "hébergement de bot Discord, serveur d'hébergement de bot, performances élevées, support technique 24/7, connectivité rapide";
-$_LANG['seoenhancer_0018_canonical'] = "https://hebergtonserv.fr/discord-bot.php";
+$_LANG['seoenhancer_0018_canonical'] = "https://hebergtonserv.com/discord-bot.php";

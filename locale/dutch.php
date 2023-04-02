@@ -79,7 +79,7 @@ $_LANG['Reseaupremium'] = "Premium netwerk";
 $_LANG['Reseaupremiumdesc'] = "Wij gebruiken een high-end netwerk om optimale prestaties en snelle, betrouwbare connectiviteit voor uw website te garanderen..";
 $_LANG['rgpdmention'] = "Juridische vermeldingen RGPD";
 $_LANG['cgv'] = "Algemene verkoopsvoorwaarden";
-$_LANG['legaldesc'] = "Welkom op onze pagina met algemene verkoopsvoorwaarden. Hier vindt u alle nodige informatie om de regels voor onze commerciële transacties te begrijpen. Wij zijn een individuele ondernemer en zijn niet BTW-plichtig overeenkomstig artikel 293 B van de CGI. Als u vragen of twijfels hebt over ons verkoopbeleid, aarzel dan niet om contact met ons op te nemen via admin@hebergtonserv.fr. Onze maatschappelijke zetel is gevestigd te 224 rue de la république, 39400 Morez. Wij zijn geregistreerd bij het RCS van Lons-le-Saunier onder nummer 90202472800013 en de verantwoordelijke voor de publicatie is Dhr. Keskin Yavuz..";
+$_LANG['legaldesc'] = "Welkom op onze pagina met algemene verkoopsvoorwaarden. Hier vindt u alle nodige informatie om de regels voor onze commerciële transacties te begrijpen. Wij zijn een individuele ondernemer en zijn niet BTW-plichtig overeenkomstig artikel 293 B van de CGI. Als u vragen of twijfels hebt over ons verkoopbeleid, aarzel dan niet om contact met ons op te nemen via admin@hebergtonserv.com. Onze maatschappelijke zetel is gevestigd te 224 rue de la république, 39400 Morez. Wij zijn geregistreerd bij het RCS van Lons-le-Saunier onder nummer 90202472800013 en de verantwoordelijke voor de publicatie is Dhr. Keskin Yavuz..";
 $_LANG['readytostart'] = "Klaar om te beginnen?";
 $_LANG['readytostartdesc'] = "Servers zijn up en running, selecteer uw plan en word onze nieuwste tevreden klant.";
 $_LANG['lookservice'] = "Bekijk Services";
@@ -87,119 +87,119 @@ $_LANG['espaceclient'] = "Klantgebied";
 $_LANG['createaccountweb'] = "Maak account aan";
 
 // homepage
-$_LANG['seoenhancer_homepage_title'] = "Game Server Hosting | Hebergtonserv.fr";
-$_LANG['seoenhancer_homepage_description'] = "Hebergtonserv.fr 
+$_LANG['seoenhancer_homepage_title'] = "Game Server Hosting | hebergtonserv.com";
+$_LANG['seoenhancer_homepage_description'] = "hebergtonserv.com 
 is een bedrijf gespecialiseerd in gameserver hosting in Frankrijk. Wij bieden een complete reeks hostingoplossingen voor de meest populaire spellen, waaronder Minecraft, Garry's Mod, GTA FiveM en nog veel meer.";
 $_LANG['seoenhancer_homepage_tags'] = "Server hosting, online gaming, Minecraft servers, FiveM servers, Garry's Mod servers";
-$_LANG['seoenhancer_homepage_canonical'] = "https://hebergtonserv.fr/";
+$_LANG['seoenhancer_homepage_canonical'] = "https://hebergtonserv.com/";
 
 // fivem
-$_LANG['seoenhancer_2_title'] = "Snelle en betrouwbare FiveM Server Hosting - HebergTonServ.fr";
-$_LANG['seoenhancer_2_description'] = "HebergTonServ.fr biedt snelle en betrouwbare FiveM server hosting oplossingen tegen betaalbare prijzen. Zet uw server op en beheer hem in een paar klikken met ons gebruiksvriendelijke controlepaneel.";
+$_LANG['seoenhancer_2_title'] = "Snelle en betrouwbare FiveM Server Hosting - hebergtonserv.com";
+$_LANG['seoenhancer_2_description'] = "hebergtonserv.com biedt snelle en betrouwbare FiveM server hosting oplossingen tegen betaalbare prijzen. Zet uw server op en beheer hem in een paar klikken met ons gebruiksvriendelijke controlepaneel.";
 $_LANG['seoenhancer_2_tags'] = "Hosting, FiveM servers, Configuratie, Controlepaneel, Betaalbaar";
-$_LANG['seoenhancer_2_canonical'] = "https://hebergtonserv.fr/fivem.php";
+$_LANG['seoenhancer_2_canonical'] = "https://hebergtonserv.com/fivem.php";
 
 // minecraft
 $_LANG['seoenhancer_3_title'] = "Hoogwaardige Minecraft Server Hosting | HebergTonServ";
 $_LANG['seoenhancer_3_description'] = "HebergTonServ biedt geoptimaliseerde Minecraft serverhostingpakketten voor een soepele en lagvrije spelervaring. Geniet van een breed scala aan serveropties, waaronder Vanilla, Spigot, Forge, BungeeCord en meer. U krijgt ook anti-DDoS-bescherming, regelmatige back-ups en 24/7 technische ondersteuning om de beste game-ervaring te garanderen.";
 $_LANG['seoenhancer_3_tags'] = "Minecraft server hosting, Minecraft, gameservers, server hosting, Spigot, Forge, BungeeCord, anti-DDoS, regelmatige back-ups, 24/7 technische ondersteuning.";
-$_LANG['seoenhancer_3_canonical'] = "https://hebergtonserv.fr/minecraft.php";
+$_LANG['seoenhancer_3_canonical'] = "https://hebergtonserv.com/minecraft.php";
 
 // gmod
 $_LANG['seoenhancer_4_title'] = "Premium kwaliteit Garry's Mod server hosting | HebergTonServ";
 $_LANG['seoenhancer_4_description'] = "Host uw eigen Garry's Mod server bij HebergTonServ. Geniet van premium kwaliteit hosting met state-of-the-art processors, automatische back-ups, DDoS bescherming en 24/7 technische ondersteuning. Bekijk nu onze Garry's Mod hostingplannen!";
 $_LANG['seoenhancer_4_tags'] = "Garry's Mod hosting, Garry's Mod server, premium kwaliteit, state-of-the-art processors, automatische back-ups, DDoS bescherming, technische ondersteuning.";
-$_LANG['seoenhancer_4_canonical'] = "https://hebergtonserv.fr/garrys-mod.php";
+$_LANG['seoenhancer_4_canonical'] = "https://hebergtonserv.com/garrys-mod.php";
 
 // gameserver
 $_LANG['seoenhancer_gameserver_title'] = "Premium Kwaliteit Game Servers | Game Server Hosting | HebergTonServ";
 $_LANG['seoenhancer_gameserver_description'] = "HebergTonServ biedt eersteklas gameservers voor gepassioneerde gamers. Onze servers zijn geoptimaliseerd voor uitzonderlijke prestaties en snelle, stabiele connectiviteit. Wij bieden een verscheidenheid aan populaire games met uitstekende technische ondersteuning voor een stressvrije game-ervaring. Ontvang vandaag nog uw premium gameserver!";
 $_LANG['seoenhancer_gameserver_tags'] = "Game server hosting, game servers, premium kwaliteit game servers, Minecraft, Garry's Mod, FiveM, game server diensten, geoptimaliseerde game servers";
-$_LANG['seoenhancer_gameserver_canonical'] = "https://hebergtonserv.fr/game-servers.php";
+$_LANG['seoenhancer_gameserver_canonical'] = "https://hebergtonserv.com/game-servers.php";
 
 // vps
 $_LANG['seoenhancer_vps_title'] = "Krachtige VPS Hosting - HebergTonServ";
 $_LANG['seoenhancer_vps_description'] = "Ontdek onze hoogwaardige VPS-hosting. Geniet van krachtige root-toegang, verbeterde beveiliging en snelle technische ondersteuning.";
 $_LANG['seoenhancer_vps_tags'] = "VPS hosting, VPS server, cloud hosting, root toegang, verbeterde beveiliging, technische ondersteuning, hoge prestaties";
-$_LANG['seoenhancer_vps_canonical'] = "https://hebergtonserv.fr/vps-hosting.php";
+$_LANG['seoenhancer_vps_canonical'] = "https://hebergtonserv.com/vps-hosting.php";
 
 // web
-$_LANG['seoenhancer_5_title'] = "Premium webhosting - HebergTonServ.fr";
-$_LANG['seoenhancer_5_description'] = "HebergTonServ.fr biedt premium webhostingdiensten voor websites van elke omvang. Onze pakketten omvatten NVMe SSD-opslag, DDoS-bescherming, 24/7 technische ondersteuning, gegevensback-up en een beschikbaarheidsgarantie van 99,9%..";
+$_LANG['seoenhancer_5_title'] = "Premium webhosting - hebergtonserv.com";
+$_LANG['seoenhancer_5_description'] = "hebergtonserv.com biedt premium webhostingdiensten voor websites van elke omvang. Onze pakketten omvatten NVMe SSD-opslag, DDoS-bescherming, 24/7 technische ondersteuning, gegevensback-up en een beschikbaarheidsgarantie van 99,9%..";
 $_LANG['seoenhancer_5_tags'] = "webhosting, NVMe SSD-opslag, DDoS-bescherming, gegevensback-up, beschikbaarheid, technische ondersteuning, websitehosting";
-$_LANG['seoenhancer_5_canonical'] = "https://hebergtonserv.fr/web-hosting.php";
+$_LANG['seoenhancer_5_canonical'] = "https://hebergtonserv.com/web-hosting.php";
 
 // legal
 $_LANG['seoenhancer_6_title'] = "Verkoopvoorwaarden- Hébergtonserv.fr";
 $_LANG['seoenhancer_6_description'] = "Bekijk onze verkoopvoorwaarden voor meer informatie over onze hostingdiensten voor gameservers en VPS. Vind alle informatie over prijzen, terugbetalingen, beschikbaarheid, veiligheid en vertrouwelijkheid van uw gegevens..";
 $_LANG['seoenhancer_6_tags'] = "gameserver hosting, VPS, verkoopvoorwaarden, prijzen, terugbetalingen, gegevensbeveiliging, vertrouwelijkheid";
-$_LANG['seoenhancer_6_canonical'] = "https://hebergtonserv.fr/terms-of-service.php";
+$_LANG['seoenhancer_6_canonical'] = "https://hebergtonserv.com/terms-of-service.php";
 
 // gaming
 $_LANG['seoenhancer_7_title'] = "Game Server Hosting - Maak een account aan bij HebergTonServ";
 $_LANG['seoenhancer_7_description'] = "Maak een account aan bij HebergTonServ om te genieten van hoogwaardige gameserver hosting tegen betaalbare prijzen. Krijg toegang tot ons aanbod van gameservers, VPS en webhosting om aan al uw behoeften te voldoen.";
 $_LANG['seoenhancer_7_tags'] = "gameserver hosting, account, HebergTonServ, gameservers, VPS, webhosting";
-$_LANG['seoenhancer_7_canonical'] = "https://hebergtonserv.fr/register.php";
+$_LANG['seoenhancer_7_canonical'] = "https://hebergtonserv.com/register.php";
 
 // Garry's Mod
 $_LANG['seoenhancer_8_title'] = "Garry's Mod Hosting - Krachtige en betrouwbare gameservers | HebergTonServ";
 $_LANG['seoenhancer_8_description'] = "Host uw Garry's Mod server bij HebergTonServ en geniet van superieure prestaties, DDoS bescherming en snelle, professionele technische ondersteuning. Onze servers zijn geoptimaliseerd voor Garry's Mod en zorgen voor snelle laadtijden en een soepele spelervaring voor u en uw spelers.";
 $_LANG['seoenhancer_8_tags'] = "Garry's Mod hosting, Garry's Mod gameservers, superieure prestaties, DDoS-bescherming, technische ondersteuning, vlotte spelervaring";
-$_LANG['seoenhancer_8_canonical'] = "https://hebergtonserv.fr/store/gmod";
+$_LANG['seoenhancer_8_canonical'] = "https://hebergtonserv.com/store/gmod";
 
 // ALT:V
 $_LANG['seoenhancer_9_title'] = "ALT:V Server Hosting - Krachtige gameservers";
 $_LANG['seoenhancer_9_description'] = "Krijg uw eigen high-performance ALT:V server van Hébergtonserv.fr. Wij bieden verschillende serverplannen, aanpassingsopties, 24/7 technische ondersteuning en DDoS-bescherming voor een ononderbroken spelervaring.";
 $_LANG['seoenhancer_9_tags'] = "serverhosting, gameservers, ALT:V-servers, hoge prestaties, maatwerk, technische ondersteuning, DDoS-bescherming.";
-$_LANG['seoenhancer_9_canonical'] = "https://hebergtonserv.fr/store/altv";
+$_LANG['seoenhancer_9_canonical'] = "https://hebergtonserv.com/store/altv";
 
 // RedM
 $_LANG['seoenhancer_0010_title'] = "RedM Server Hosting - HebergtonServ";
 $_LANG['seoenhancer_0010_description'] = "Host uw RedM server bij HebergtonServ. Geniet van hoge prestaties, state-of-the-art DDoS bescherming, 24/7 technische ondersteuning en een eenvoudig te gebruiken controlepaneel. Start uw RedM community vandaag nog!";
 $_LANG['seoenhancer_0010_tags'] = "RedM hosting, RedM server, RedM host, gameserver hosting, hoge prestaties, DDoS bescherming, 24/7 technische ondersteuning, gemakkelijk te gebruiken controlepaneel.";
-$_LANG['seoenhancer_0010_canonical'] = "https://hebergtonserv.fr/store/redm";
+$_LANG['seoenhancer_0010_canonical'] = "https://hebergtonserv.com/store/redm";
 
 // FiveM
 $_LANG['seoenhancer_0011_title'] = "Kwaliteit FiveM Server Hosting | HebergTonServ";
 $_LANG['seoenhancer_0011_description'] = "Krijg optimale prestaties voor uw FiveM server met onze hoogwaardige hosting en toegewijde technische ondersteuning. Kies uit verschillende hosting plannen tegen concurrerende prijzen. Word lid van onze community en geniet vandaag nog van betrouwbare en veilige FiveM server hosting.";
 $_LANG['seoenhancer_0011_tags'] = "hosting, server, FiveM, prestaties, ondersteuning, technisch, gemeenschap, concurrerende prijzen, betrouwbaarheid, veiligheid";
-$_LANG['seoenhancer_0011_canonical'] = "https://hebergtonserv.fr/store/fivem";
+$_LANG['seoenhancer_0011_canonical'] = "https://hebergtonserv.com/store/fivem";
 
 // Node.js
 $_LANG['seoenhancer_0012_title'] = "Premium Node.js Hosting | Game Server Hosting";
 $_LANG['seoenhancer_0012_description'] = "Host uw Node.js-applicatie met prestaties en betrouwbaarheid op onze cloud-infrastructuur. Geniet van functies zoals automatische back-ups, volledige root-toegang en snelle technische ondersteuning.";
 $_LANG['seoenhancer_0012_tags'] = "Node.js hosting, Cloud server, Automatische back-ups, Volledige root toegang, Technische ondersteuning";
-$_LANG['seoenhancer_0012_canonical'] = "https://hebergtonserv.fr/store/nodejs";
+$_LANG['seoenhancer_0012_canonical'] = "https://hebergtonserv.com/store/nodejs";
 
 // VPS
-$_LANG['seoenhancer_0013_title'] = "Hoge kwaliteit VPS Hosting - Hebergtonserv.fr";
+$_LANG['seoenhancer_0013_title'] = "Hoge kwaliteit VPS Hosting - hebergtonserv.com";
 $_LANG['seoenhancer_0013_description'] = "Krijg betrouwbare prestaties, verbeterde beveiliging en superieure klantenondersteuning met onze cloud VPS hosting. Ontdek onze beheerde, schaalbare en kosteneffectieve VPS-plannen met root-toegang, automatische back-ups en premium netwerk.";
 $_LANG['seoenhancer_0013_tags'] = "VPS hosting, Cloud VPS hosting, Managed VPS hosting, Root toegang, Automatische back-ups, Premium netwerk, Betrouwbare prestaties, Verbeterde beveiliging, Superieure klantenondersteuning, Kosteneffectieve VPS plannen.";
-$_LANG['seoenhancer_0013_canonical'] = "https://hebergtonserv.fr/store/vps";
+$_LANG['seoenhancer_0013_canonical'] = "https://hebergtonserv.com/store/vps";
 
 // Minecraft
 $_LANG['seoenhancer_0014_title'] = "Minecraft Server Hosting - Host uw Minecraft-server met HebergTonServ";
 $_LANG['seoenhancer_0014_description'] = "Host uw Minecraft server bij HebergTonServ en geniet van uitstekende prestaties en veiligheid. Kies uit verschillende hostingplannen en beheer uw Minecraft-server met gemak via ons gebruiksvriendelijke controlepaneel.";
 $_LANG['seoenhancer_0014_tags'] = "Minecraft server hosting, Minecraft server, Minecraft, game hosting, HebergTonServ";
-$_LANG['seoenhancer_0014_canonical'] = "https://hebergtonserv.fr/store/minecraft";
+$_LANG['seoenhancer_0014_canonical'] = "https://hebergtonserv.com/store/minecraft";
 
 // Web Hosting
 $_LANG['seoenhancer_0015_title'] = "Web Hosting - Betaalbare web hosting plannen | HebergtonServ";
 $_LANG['seoenhancer_0015_description'] = "Host uw website met onze betaalbare webhostingplannen. Profiteer van snelle NVMe SSD-opslag, regelmatige back-ups, DDoS-bescherming en 24/7 technische ondersteuning.";
 $_LANG['seoenhancer_0015_tags'] = "webhosting, NVMe SSD-opslag, regelmatige back-ups, DDoS-bescherming, 24/7 technische ondersteuning, betaalbare webhostingplannen, HebergtonServ";
-$_LANG['seoenhancer_0015_canonical'] = "https://hebergtonserv.fr/store/web";
+$_LANG['seoenhancer_0015_canonical'] = "https://hebergtonserv.com/store/web";
 
 // Database Hosting
 $_LANG['seoenhancer_0016_title'] = "Database Hosting - HebergTonServ";
 $_LANG['seoenhancer_0016_description'] = "HebergTonServ biedt snelle en betrouwbare database hosting oplossingen om aan al uw dataopslag behoeften te voldoen. Onze database servers zijn geoptimaliseerd voor prestaties en worden geleverd met functies zoals automatische back-ups, DDoS-bescherming en snelle en deskundige technische ondersteuning. Kies uit onze verschillende plannen om het plan te vinden dat het beste bij uw behoeften past.";
 $_LANG['seoenhancer_0016_tags'] = "database hosting, MySQL, MariaDB, PostgreSQL, MongoDB, Redis 5, Redis 6, gegevensopslag, automatische back-ups, DDoS bescherming, technische ondersteuning, hosting plannen.";
-$_LANG['seoenhancer_0016_canonical'] = "https://hebergtonserv.fr/store/database";
+$_LANG['seoenhancer_0016_canonical'] = "https://hebergtonserv.com/store/database";
 
 // Gaming VPS
 $_LANG['seoenhancer_0017_title'] = "Gaming VPS Hosting - HebergTonServ";
 $_LANG['seoenhancer_0017_description'] = "HebergTonServ biedt VPS-servers van topkwaliteit voor online gaming met hoge prestaties, snelle connectiviteit en 24/7 technische ondersteuning.";
 $_LANG['seoenhancer_0017_tags'] = "VPS hosting, gaming VPS server, online gaming server, hoge prestaties, 24/7 technische ondersteuning, snelle connectiviteit";
-$_LANG['seoenhancer_0017_canonical'] = "https://hebergtonserv.fr/store/vps-gaming";
+$_LANG['seoenhancer_0017_canonical'] = "https://hebergtonserv.com/store/vps-gaming";
 
 
 //fiveguard
