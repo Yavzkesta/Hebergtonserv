@@ -233,3 +233,9 @@ $_LANG['seoenhancer_0018_title'] = "Discord Bot Hosting - HébergTonServ";
 $_LANG['seoenhancer_0018_description'] = "HébergTonServ offers high-quality Discord bot hosting servers with high performance, fast connectivity, and 24/7 technical support.";
 $_LANG['seoenhancer_0018_tags'] = "Discord bot hosting, bot hosting server, high performance, 24/7 technical support, fast connectivity";
 $_LANG['seoenhancer_0018_canonical'] = "https://hebergtonserv.com/discord-bot.php";
+
+//nova life 
+$_LANG['seoenhancer_0019_title'] = "Nova-Life - High-quality game server on HebergTonServ";
+$_LANG['seoenhancer_0019_description'] = "Nova-Life is an exciting game available on HebergTonServ. Enjoy a high-quality game server with optimal performance, fast connectivity, and 24/7 technical support.";
+$_LANG['seoenhancer_0019_tags'] = "Game server, Nova-Life, online game, optimal performance, 24/7 technical support, fast connectivity";
+$_LANG['seoenhancer_0019_canonical'] = "https://hebergtonserv.com/store/nova-life-amboise";

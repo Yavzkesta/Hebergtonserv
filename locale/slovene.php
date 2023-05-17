@@ -234,3 +234,9 @@ $_LANG['seoenhancer_0018_title'] = "Gostovanje Discord Bota - HébergTonServ";
 $_LANG['seoenhancer_0018_description'] = "HébergTonServ ponuja visokokakovostne strežnike za gostovanje Discord bota z visoko zmogljivostjo, hitrimi povezavami in 24/7 tehnično podporo.";
 $_LANG['seoenhancer_0018_tags'] = "gostovanje Discord bota, strežnik za gostovanje bota, visoka zmogljivost, 24/7 tehnična podpora, hitre povezave";
 $_LANG['seoenhancer_0018_canonical'] = "https://hebergtonserv.com/discord-bot.php";
+
+//nova life 
+$_LANG['seoenhancer_0019_title'] = "Nova-Life - Kakovosten igralni strežnik na HebergTonServ";
+$_LANG['seoenhancer_0019_description'] = "Nova-Life je razburljiva igra, ki je na voljo na HebergTonServu. Uživajte v visokokakovostnem igralnem strežniku z optimalno zmogljivostjo, hitro povezavo in 24/7 tehnično podporo.";
+$_LANG['seoenhancer_0019_tags'] = "Igralni strežnik, Nova-Life, spletna igra, optimalna zmogljivost, 24/7 tehnična podpora, hitra povezava";
+$_LANG['seoenhancer_0019_canonical'] = "https://hebergtonserv.com/store/nova-life-amboise";

@@ -234,3 +234,9 @@ $_LANG['seoenhancer_0018_title'] = "Hébergement de Bot Discord - HébergTonServ
 $_LANG['seoenhancer_0018_description'] = "HébergTonServ propose des serveurs d'hébergement de bot Discord de qualité supérieure avec des performances élevées, une connectivité rapide et un support technique 24/7.";
 $_LANG['seoenhancer_0018_tags'] = "hébergement de bot Discord, serveur d'hébergement de bot, performances élevées, support technique 24/7, connectivité rapide";
 $_LANG['seoenhancer_0018_canonical'] = "https://hebergtonserv.com/discord-bot.php";
+
+//nova life 
+$_LANG['seoenhancer_0019_title'] = "Nova-Life - Serveur de jeu de qualité sur HebergTonServ";
+$_LANG['seoenhancer_0019_description'] = "Nova-Life est un jeu passionnant disponible sur HebergTonServ. Profitez d'un serveur de jeu de haute qualité avec des performances optimales, une connectivité rapide et un support technique disponible 24h/24.";
+$_LANG['seoenhancer_0019_tags'] = "Serveur de jeu, Nova-Life, jeu en ligne, performances optimales, support technique 24h/24, connectivité rapide";
+$_LANG['seoenhancer_0019_canonical'] = "https://hebergtonserv.com/store/nova-life-amboise";
